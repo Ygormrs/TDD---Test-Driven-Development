@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\G\u00E3o\\source\\repos\\Emprestimos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3644E2-1F7C-4F01-9DAF-D0F9ED115CD4}|Emprestimos\\Emprestimos.Core.Tests_MsTests\\Emprestimos.Core.Tests_MsTests.csproj|e:\\users\\g\u00E3o\\source\\repos\\emprestimos\\emprestimos\\emprestimos.core.tests_mstests\\processor\\emprestimostests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3644E2-1F7C-4F01-9DAF-D0F9ED115CD4}|Emprestimos\\Emprestimos.Core.Tests_MsTests\\Emprestimos.Core.Tests_MsTests.csproj|solutionrelative:emprestimos\\emprestimos.core.tests_mstests\\processor\\emprestimostests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmprestimosTests.cs",
+              "DocumentMoniker": "E:\\Users\\G\u00E3o\\source\\repos\\Emprestimos\\Emprestimos\\Emprestimos.Core.Tests_MsTests\\Processor\\EmprestimosTests.cs",
+              "RelativeDocumentMoniker": "Emprestimos\\Emprestimos.Core.Tests_MsTests\\Processor\\EmprestimosTests.cs",
+              "ToolTip": "E:\\Users\\G\u00E3o\\source\\repos\\Emprestimos\\Emprestimos\\Emprestimos.Core.Tests_MsTests\\Processor\\EmprestimosTests.cs",
+              "RelativeToolTip": "Emprestimos\\Emprestimos.Core.Tests_MsTests\\Processor\\EmprestimosTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:58:17.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

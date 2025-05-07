@@ -1,0 +1,11 @@
+E:\Users\Gão\source\repos\Emprestimos\Emprestimos\Emprestimos.Core\bin\Debug\net8.0\Emprestimos.Core.deps.json
+E:\Users\Gão\source\repos\Emprestimos\Emprestimos\Emprestimos.Core\bin\Debug\net8.0\Emprestimos.Core.dll
+E:\Users\Gão\source\repos\Emprestimos\Emprestimos\Emprestimos.Core\bin\Debug\net8.0\Emprestimos.Core.pdb
+E:\Users\Gão\source\repos\Emprestimos\Emprestimos\Emprestimos.Core\obj\Debug\net8.0\Emprestimos.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Gão\source\repos\Emprestimos\Emprestimos\Emprestimos.Core\obj\Debug\net8.0\Emprestimos.Core.AssemblyInfoInputs.cache
+E:\Users\Gão\source\repos\Emprestimos\Emprestimos\Emprestimos.Core\obj\Debug\net8.0\Emprestimos.Core.AssemblyInfo.cs
+E:\Users\Gão\source\repos\Emprestimos\Emprestimos\Emprestimos.Core\obj\Debug\net8.0\Emprestimos.Core.csproj.CoreCompileInputs.cache
+E:\Users\Gão\source\repos\Emprestimos\Emprestimos\Emprestimos.Core\obj\Debug\net8.0\Emprestimos.Core.dll
+E:\Users\Gão\source\repos\Emprestimos\Emprestimos\Emprestimos.Core\obj\Debug\net8.0\refint\Emprestimos.Core.dll
+E:\Users\Gão\source\repos\Emprestimos\Emprestimos\Emprestimos.Core\obj\Debug\net8.0\Emprestimos.Core.pdb
+E:\Users\Gão\source\repos\Emprestimos\Emprestimos\Emprestimos.Core\obj\Debug\net8.0\ref\Emprestimos.Core.dll
